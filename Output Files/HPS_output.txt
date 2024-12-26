@@ -1,0 +1,100 @@
+Directory 'output.txt' already exists
+
+================================================================
+             Sobel Filter Processing: boat.bmp                      
+================================================================
+B bitmap identifies
+263222 bitmap identifies the size of image
+
+IMAGE DETAILS:
+--------------
+Size of info header : 40
+Horizontal width : 200
+Vertical height : 200
+Num of planes : 1
+Bits per pixel : 8
+Compression specs : 0
+Size of the image : 262144
+The num of colours used : 100
+The Bit Offset : 1078
+Bytes per pixel : 1 
+LOG: bytesRead :  262144
+
+OUTPUT IMAGE DETAILS:
+---------------------
+Size of info header: 40
+Horizontal width: 512
+Vertical height: 512
+Bits per pixel: 8
+Image size: 262144
+Colors used: 256
+----------------------------------------------------------------
+Runtime: 0.280000 seconds for boat.bmp
+Total Runtime: 0.280000 seconds
+----------------------------------------------------------------
+
+================================================================
+             Sobel Filter Processing: lena512.bmp                   
+================================================================
+B bitmap identifies
+263222 bitmap identifies the size of image
+
+IMAGE DETAILS:
+--------------
+Size of info header : 40
+Horizontal width : 200
+Vertical height : 200
+Num of planes : 1
+Bits per pixel : 8
+Compression specs : 0
+Size of the image : 262144
+The num of colours used : 100
+The Bit Offset : 1078
+Bytes per pixel : 1 
+LOG: bytesRead :  262144
+
+OUTPUT IMAGE DETAILS:
+---------------------
+Size of info header: 40
+Horizontal width: 512
+Vertical height: 512
+Bits per pixel: 8
+Image size: 262144
+Colors used: 256
+----------------------------------------------------------------
+Runtime: 0.270000 seconds for lena512.bmp
+Total Runtime: 0.550000 seconds
+----------------------------------------------------------------
+
+================================================================
+             Sobel Filter Processing: batmanjoker.bmp               
+================================================================
+B bitmap identifies
+6220856 bitmap identifies the size of image
+
+IMAGE DETAILS:
+--------------
+Size of info header : 40
+Horizontal width : 780
+Vertical height : 438
+Num of planes : 1
+Bits per pixel : 24
+Compression specs : 0
+Size of the image : 6220802
+The num of colours used : 0
+The Bit Offset : 54
+Bytes per pixel : 3 
+LOG: bytesRead :  6220802
+
+OUTPUT IMAGE DETAILS:
+---------------------
+Size of info header: 40
+Horizontal width: 1920
+Vertical height: 1080
+Bits per pixel: 24
+Image size: 6220800
+Colors used: 0
+----------------------------------------------------------------
+Runtime: 6.430000 seconds for batmanjoker.bmp
+Total Runtime: 6.980000 seconds
+----------------------------------------------------------------
